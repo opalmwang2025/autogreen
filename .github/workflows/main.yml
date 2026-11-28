@@ -48,6 +48,15 @@ jobs:
 
 
           MESSAGES=(
+            "Add helper" "Remove unused code" "Update dependencies" "fix edge case"
+            "Improve readability" "Adjust padding" "Fix missing semicolon"
+            "Update copy" "Refine logic" "add fallback" "Fix broken link"
+            "Clean up imports" "update gitignore" "Tweak colors" "Fix alignment"
+            "Draft changes" "Update example" "Fix null check" "Optimize loop"
+            "Add error handling" "Update script" "Minor style tweaks"
+            "Rename variable" "Fix typos in docs" "Keep working" "Small refactor"
+            "Update test data" "Fix responsive layout" "Tidy comments"
+            "Add notes" "Remove debug log" "Update template" "Fix overflow"
             "fix typo" "Update notes" "tidy up" "Minor cleanup" "small tweak"
             "WIP" "Update README" "fix formatting" "Refactor a bit" "Add TODO"
             "sync" "Update" "fix bug" "Hotfix" "patch" "Fix lint" "fix import"
